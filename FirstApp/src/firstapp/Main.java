@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Main {
     
     //Atributo
-    static Numero objNumero; //Declaracion de la variable
+    static Numero objNumero; //Declaracion de la variable aqui solo es la declaracio pero aun no existe en la memoria
     
     public static void main(String [] args){
         
